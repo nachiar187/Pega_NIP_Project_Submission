@@ -135,7 +135,7 @@ This repository contains the project submission documentation prepared for the P
 
 ### Submission Document
 
-`NIP_Project_Submission_Template_PARUVATHANACHIAR_P.docx`
+`MovieTicket_PARUVATHANACHIAR_P.docx`
 
 The document contains:
 
